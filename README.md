@@ -1,7 +1,5 @@
 # 👋 你好，我是 EchoYi
-
-🚀 **Web3 Degen** | **智能合约工程师**  
----
+🚀 **Web3 Degen** | **智能合约/全栈工程师**  
 ## 🛠️ **技术栈**
 - **区块链**: Solidity | Foundry | Rust(for MEV)
 - **全栈开发**: TypeScript ｜ React ｜ Next.js ｜ wagmi ｜ RainbowKit
