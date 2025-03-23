@@ -8,9 +8,17 @@
 - **Tools**: ![Static Badge](https://img.shields.io/badge/AI%20tools-%23412991?style=flat&logo=openai&logoColor=white) ![Static Badge](https://img.shields.io/badge/IPFS-%2365C2CB?style=flat&logo=ipfs&logoColor=white) ![Static Badge](https://img.shields.io/badge/ChainLink-%23375BD2?style=flat&logo=chainlink&logoColor=white) ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white)  ![Static Badge](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=white) ![Static Badge](https://img.shields.io/badge/Prometheus-%23E6522C?style=flat&logo=prometheus&logoColor=white) 
 ---
 ## 📫 **Contact me**
-[![Static Badge](https://img.shields.io/badge/tjucssong%40gmail.com-%23EA4335?style=social&logo=gmail)](mailto:tjucssong@gmail.com)  
-[![Static Badge](https://img.shields.io/badge/%40echoyidotfun-%23000000?style=social&logo=x)](https://x.com/echoyidotfun)  
-[![Static Badge](https://img.shields.io/badge/%40echoyidotfun-%2326A5E4?style=social&logo=telegram)](https://t.me/echoyidotfun)  
+<a href="mailto:tjucssong@gmail.com" target="_blank">  
+  <img src="https://img.shields.io/badge/tjucssong%40gmail.com-%23EA4335?style=social&logo=gmail" alt="Static Badge"/>  
+</a>  
+
+<a href="https://x.com/echoyidotfun" target="_blank">  
+  <img src="https://img.shields.io/badge/%40echoyidotfun-%23000000?style=social&logo=x" alt="Static Badge"/>  
+</a>  
+
+<a href="https://t.me/echoyidotfun" target="_blank">  
+  <img src="https://img.shields.io/badge/%40echoyidotfun-%2326A5E4?style=social&logo=telegram" alt="Static Badge"/>  
+</a>  
 
 ---
 Crypto｜ Arsenal ｜ WoW  
