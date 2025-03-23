@@ -1,6 +1,6 @@
 # 👋 你好，我是 EchoYi
 🚀 **Web3 Degen** | **Smart contracts/Full-stack Developer**  
-## 🛠️ **技术栈**
+## 🛠️ **SKILLS**
 - **BlockChain**: ![Static Badge](https://img.shields.io/badge/Solidity-%23363636?style=flat&logo=solidity) ![Static Badge](https://img.shields.io/badge/Rust-%23000000?style=flat&logo=rust)
 - **Full-stack**: ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&logoColor=white) ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=white) ![Static Badge](https://img.shields.io/badge/Next.js-%23000000?style=flat&logo=next.js) ![Static Badge](https://img.shields.io/badge/Wagmi-%23000000?style=flat&logo=wagmi) ![Static Badge](https://img.shields.io/badge/Chakra%20UI-%23000000?style=flat&logo=chakraui)
 - **Backend**: ![Static Badge](https://img.shields.io/badge/Spring-%236DB33F?style=flat&logo=spring&logoColor=white) ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=Python&logoColor=white) ![Static Badge](https://img.shields.io/badge/MySql-%234479A1?style=flat&logo=mysql&logoColor=white)  ![Static Badge](https://img.shields.io/badge/Redis-%23FF4438?style=flat&logo=redis) ![Static Badge](https://img.shields.io/badge/Pulsar-%23188FFF?style=flat&logo=apachepulsar&logoColor=white) 
