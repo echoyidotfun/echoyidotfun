@@ -1,4 +1,4 @@
-# 👋 Hey，我是YI
+# 👋 Hey，I am YI
 🚀 **Web3 Degen** | **Smart contracts/Full-stack Developer**  
 ## 🛠️ **STACKS**
 - **BlockChain**: ![Static Badge](https://img.shields.io/badge/Solidity-%23363636?style=flat&logo=solidity) ![Static Badge](https://img.shields.io/badge/Rust-%23000000?style=flat&logo=rust)
