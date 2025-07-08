@@ -12,12 +12,12 @@
   <img src="https://img.shields.io/badge/tjucssong%40gmail.com-%23EA4335?style=social&logo=gmail" alt="Static Badge"/>  
 </a>  
 
-<a href="https://x.com/echoyidotfun" target="_blank">  
-  <img src="https://img.shields.io/badge/%40echoyidotfun-%23000000?style=social&logo=x" alt="Static Badge"/>  
+<a href="https://x.com/ethancoyg" target="_blank">  
+  <img src="https://img.shields.io/badge/%40ethancoyg-%23000000?style=social&logo=x" alt="Static Badge"/>  
 </a>  
 
-<a href="https://t.me/echoyidotfun" target="_blank">  
-  <img src="https://img.shields.io/badge/%40echoyidotfun-%2326A5E4?style=social&logo=telegram" alt="Static Badge"/>  
+<a href="https://t.me/ethancoyg" target="_blank">  
+  <img src="https://img.shields.io/badge/%40ethancoyg-%2326A5E4?style=social&logo=telegram" alt="Static Badge"/>  
 </a>  
 
 ---
